@@ -12,7 +12,7 @@
   },
   "servers": [
     {
-      "url": "https"
+      "url": "https://student-council-site.herokuapp.com/"
     }
   ],
   "paths": {
